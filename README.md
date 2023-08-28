@@ -2,7 +2,7 @@
 I am Emily. I enjoy the exciting process of learning how to code and making interesting things with code. 
 ### Hi there 👋, my name is Emily
 #### Student
-(![banner for repository of roses and a bird](blob:chrome-untrusted://media-app/2820769d-6d69-4371-a199-e26d51cb3e86))
+(blob:chrome-untrusted://media-app/2820769d-6d69-4371-a199-e26d51cb3e86)
 
 I am very exited about what ways we can use technology in useful ways. I am learning python and my goals to be able to write complex programs through it. Computers and technology are becoming a big part of daily life in humanity.
 

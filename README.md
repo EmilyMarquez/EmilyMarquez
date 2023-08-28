@@ -6,7 +6,7 @@ I am Emily. I enjoy the exciting process of learning how to code and making inte
 
 I am very exited about what ways we can use technology in useful ways. I am learning python and my goals to be able to write complex programs through it. Computers and technology are becoming a big part of daily life in humanity.
 
-Skills: Basic python
+Skills: 🐍 Basic python
 
 - 🔭 I’m currently working on my coding skills 
 - 🌱 I’m currently learning Python 
